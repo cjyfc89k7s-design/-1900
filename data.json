@@ -1,0 +1,9153 @@
+[
+  {
+    "no": 801,
+    "word": "assess",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "評価する",
+      "査定する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 802,
+    "word": "approve",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "賛成する",
+      "承認する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 803,
+    "word": "remark",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "述べる",
+      "意見を述べる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 804,
+    "word": "pose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き起こす",
+      "提起する",
+      "ポーズをとる",
+      "装う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 805,
+    "word": "yield",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "もたらす",
+      "譲る",
+      "屈する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 806,
+    "word": "exhibit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "示す",
+      "見せる",
+      "展示する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 807,
+    "word": "distribute",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "分配する",
+      "分布する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 808,
+    "word": "command",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "命じる",
+      "指揮する",
+      "見渡せる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 809,
+    "word": "occupy",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "占める",
+      "占領する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 810,
+    "word": "pop",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "ひょいと動く",
+      "不意に現れる",
+      "はじける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 811,
+    "word": "pile",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "積み重ねる",
+      "積み重なる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 812,
+    "word": "greet",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "挨拶する",
+      "迎える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 813,
+    "word": "apologize",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "謝る",
+      "弁明する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 814,
+    "word": "frustrate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "いら立たせる",
+      "挫折させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 815,
+    "word": "relieve",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "和らげる",
+      "安心する",
+      "解放する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 816,
+    "word": "derive",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "由来する",
+      "引き出す",
+      "推論する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 817,
+    "word": "deserve",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "値する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 818,
+    "word": "peer",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "じっと見る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 819,
+    "word": "defeat",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "負かす",
+      "失敗させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 820,
+    "word": "convert",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "変える",
+      "改宗させる",
+      "転向させる",
+      "交換する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 821,
+    "word": "wed",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "結婚する",
+      "結婚させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 822,
+    "word": "delight",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "喜ばせる",
+      "大いに喜ぶ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 823,
+    "word": "boost",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "押し上げる",
+      "増加させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 824,
+    "word": "endure",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "耐える",
+      "持ちこたえる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 825,
+    "word": "correspond",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "一致する",
+      "相当する",
+      "文通する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 826,
+    "word": "impose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "課す",
+      "押しつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 827,
+    "word": "rescue",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "救う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 828,
+    "word": "resolve",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "解決する",
+      "決意する",
+      "議決する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 829,
+    "word": "register",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "記録する",
+      "登録する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 830,
+    "word": "interrupt",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "中断させる",
+      "邪魔をする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 831,
+    "word": "rid",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り除く",
+      "除去する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 832,
+    "word": "prohibit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "禁止する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 833,
+    "word": "compose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "構成する",
+      "創作する",
+      "鎮静する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 834,
+    "word": "misunderstand",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "誤解する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 835,
+    "word": "punish",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "罰する",
+      "損傷を与える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 836,
+    "word": "ruin",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "だめにする",
+      "破滅させる",
+      "破滅する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 837,
+    "word": "defend",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "防御する",
+      "弁護する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 838,
+    "word": "embrace",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "受け入れる",
+      "抱擁する",
+      "包含する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 839,
+    "word": "modify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "修正する",
+      "緩和する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 840,
+    "word": "qualify",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "資格を与える",
+      "資格がある"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 841,
+    "word": "passion",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "情熱",
+      "熱中",
+      "激怒"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 842,
+    "word": "enthusiasm",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "熱情",
+      "熱意"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 843,
+    "word": "phase",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "段階",
+      "局面",
+      "側面"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 844,
+    "word": "mode",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "方式",
+      "気分",
+      "形態",
+      "流行"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 845,
+    "word": "span",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "期間",
+      "範囲"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 846,
+    "word": "gravity",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "重力",
+      "引力",
+      "重量",
+      "重大さ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 847,
+    "word": "orbit",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "軌道",
+      "範囲"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 848,
+    "word": "asteroid",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "小惑星",
+      "ヒトデ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 849,
+    "word": "core",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "核心",
+      "芯"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 850,
+    "word": "soul",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "精神",
+      "魂",
+      "生気"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 851,
+    "word": "nerve",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "神経",
+      "神経過敏",
+      "度胸"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 852,
+    "word": "infection",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "感染",
+      "感染症"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 853,
+    "word": "mall",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "モール",
+      "ショッピングセンター"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 854,
+    "word": "grocery",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "食料雑貨",
+      "食料雑貨店"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 855,
+    "word": "humor",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ユーモア",
+      "気分",
+      "機嫌",
+      "気質"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 856,
+    "word": "instinct",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "本能",
+      "勘",
+      "直感",
+      "衝動"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 857,
+    "word": "faith",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "信頼",
+      "信仰心"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 858,
+    "word": "courage",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "勇気"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 859,
+    "word": "incentive",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "動機づけ",
+      "報奨金"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 860,
+    "word": "prospect",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "見込み",
+      "展望",
+      "有望な人"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 861,
+    "word": "obstacle",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "障害",
+      "障害物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 862,
+    "word": "architecture",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "建築",
+      "建築様式",
+      "構造"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 863,
+    "word": "stem",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "茎",
+      "幹"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 864,
+    "word": "illusion",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "錯覚",
+      "思い違い",
+      "幻想"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 865,
+    "word": "discrimination",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "差別",
+      "区別"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 866,
+    "word": "shame",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "恥",
+      "残念なこと"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 867,
+    "word": "drought",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "干ばつ",
+      "不足"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 868,
+    "word": "flavor",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "風味",
+      "特色"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 869,
+    "word": "portion",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "部分",
+      "1人前",
+      "割り当て"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 870,
+    "word": "recipe",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "調理法",
+      "レシピ",
+      "手順",
+      "秘訣"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 871,
+    "word": "luxury",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ぜいたく",
+      "ぜいたく品",
+      "豪華な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 872,
+    "word": "chip",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "小片",
+      "破片",
+      "欠けた箇所",
+      "集積回路"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 873,
+    "word": "ritual",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "儀式",
+      "習慣的行為"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 874,
+    "word": "sake",
+    "pos": "🟥 熟語・その他",
+    "meanings": [
+      "〜のために",
+      "〜の目的で",
+      "〜に免じて"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 875,
+    "word": "prefecture",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "県",
+      "府"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 876,
+    "word": "council",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "地方議会",
+      "評議会",
+      "会議"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 877,
+    "word": "administration",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "管理",
+      "行政",
+      "政府機関"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 878,
+    "word": "curriculum",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "教育課程",
+      "カリキュラム"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 879,
+    "word": "precious",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "貴重な",
+      "高価な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 880,
+    "word": "generous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "寛大な",
+      "気前のよい",
+      "豊富な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 881,
+    "word": "casual",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "何気ない",
+      "形式ばらない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 882,
+    "word": "optimistic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "楽観的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 883,
+    "word": "rough",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "粗い",
+      "大まかな",
+      "乱暴な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 884,
+    "word": "unpleasant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "不愉快な",
+      "不親切な",
+      "無礼な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 885,
+    "word": "Arctic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "北極の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 886,
+    "word": "ultimate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "究極の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 887,
+    "word": "deaf",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "耳が聞こえない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 888,
+    "word": "genuine",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "本物の",
+      "偽りのない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 889,
+    "word": "manual",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "体を使う",
+      "手の",
+      "手動式の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 890,
+    "word": "mechanical",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "機械の",
+      "機械的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 891,
+    "word": "instant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "即時の",
+      "すぐの",
+      "即席の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 892,
+    "word": "spare",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "余分の",
+      "予備の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 893,
+    "word": "immune",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "免疫を持つ",
+      "免れた"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 894,
+    "word": "harsh",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "厳しい",
+      "不快な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 895,
+    "word": "collective",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "集団の",
+      "共同の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 896,
+    "word": "inevitable",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "避けられない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 897,
+    "word": "profound",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "重大な",
+      "深い",
+      "難解な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 898,
+    "word": "steady",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "着実な",
+      "一定の",
+      "安定した"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 899,
+    "word": "mature",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "成熟した",
+      "熟した"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 900,
+    "word": "likewise",
+    "pos": "🟪 副詞",
+    "meanings": [
+      "同様に"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 901,
+    "word": "chase",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "追跡する",
+      "追求する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 902,
+    "word": "sue",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "告訴する",
+      "訴訟を起こす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 903,
+    "word": "gaze",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "じっと見る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 904,
+    "word": "slip",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "滑る",
+      "滑り落ちる",
+      "そっと動く"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 905,
+    "word": "load",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "積む",
+      "負わせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 906,
+    "word": "overwhelm",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "圧倒する",
+      "精神的に打ちのめす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 907,
+    "word": "wander",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "歩き回る",
+      "それる",
+      "はぐれる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 908,
+    "word": "float",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "漂う",
+      "浮かぶ",
+      "浮かべる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 909,
+    "word": "pour",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "注ぐ",
+      "激しく降る",
+      "押し寄せる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 910,
+    "word": "substitute",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "代わりに使う",
+      "代理をする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 911,
+    "word": "pronounce",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "発音する",
+      "宣言する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 912,
+    "word": "shrink",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "縮む",
+      "縮小する",
+      "減少する",
+      "ひるむ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 913,
+    "word": "restore",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "回復させる",
+      "修復する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 914,
+    "word": "trigger",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き起こす",
+      "きっかけとなる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 915,
+    "word": "grab",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "つかむ",
+      "横取りする",
+      "急いで食べる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 916,
+    "word": "retain",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "保持する",
+      "覚えている"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 917,
+    "word": "reproduce",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "複製する",
+      "繁殖させる",
+      "繁殖する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 918,
+    "word": "bob",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "上下に動く",
+      "急に動く",
+      "上下に動かす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 919,
+    "word": "entertain",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "楽しませる",
+      "もてなす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 920,
+    "word": "interfere",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "干渉する",
+      "介入する",
+      "邪魔する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 921,
+    "word": "cultivate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "養う",
+      "耕す",
+      "栽培する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 922,
+    "word": "underlie",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "根底にある"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 923,
+    "word": "anticipate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "予期する",
+      "楽しみに待つ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 924,
+    "word": "justify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "正当化する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 925,
+    "word": "regulate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "規制する",
+      "調整する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 926,
+    "word": "scan",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "走査する",
+      "スキャンする",
+      "ざっと見る",
+      "注意深く調べる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 927,
+    "word": "classify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "分類する",
+      "機密扱いにする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 928,
+    "word": "submit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "提出する",
+      "従う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 929,
+    "word": "pause",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "中止する",
+      "立ち止まる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 930,
+    "word": "lean",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "傾く",
+      "寄りかかる",
+      "もたせかける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 931,
+    "word": "bump",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "ぶつかる",
+      "ぶつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 932,
+    "word": "fold",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "折り畳む",
+      "腕を組む",
+      "折り畳める"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 933,
+    "word": "hesitate",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "躊躇する",
+      "ためらう"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 934,
+    "word": "pump",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ポンプで送り込む",
+      "くみ出す",
+      "注ぎ込む"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 935,
+    "word": "mount",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "据えつける",
+      "着手する",
+      "乗る",
+      "増える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 936,
+    "word": "exceed",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "超える",
+      "勝る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 937,
+    "word": "undergo",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "経験する",
+      "受ける",
+      "耐える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 938,
+    "word": "confront",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "立ち向かう",
+      "立ちはだかる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 939,
+    "word": "consult",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "相談する",
+      "参照する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 940,
+    "word": "fulfill",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "実現させる",
+      "果たす",
+      "満たす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 941,
+    "word": "privilege",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "特権",
+      "特典"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 942,
+    "word": "formation",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "形成",
+      "構成",
+      "隊列"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 943,
+    "word": "dimension",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "側面",
+      "局面",
+      "次元",
+      "寸法"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 944,
+    "word": "neuron",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ニューロン",
+      "神経単位"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 945,
+    "word": "sensation",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "感覚",
+      "大評判"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 946,
+    "word": "chart",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "図",
+      "グラフ",
+      "海図",
+      "ヒットチャート"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 947,
+    "word": "geography",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "地理",
+      "地理学"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 948,
+    "word": "panel",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "一団",
+      "討論者一同",
+      "羽目板"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 949,
+    "word": "semester",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "学期"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 950,
+    "word": "workforce",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "労働人口",
+      "総労働力",
+      "全従業員"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 951,
+    "word": "mill",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "製造工場",
+      "製粉所",
+      "粉ひき機"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 952,
+    "word": "abuse",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "乱用",
+      "虐待"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 953,
+    "word": "vice",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "悪",
+      "欠点"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 954,
+    "word": "fate",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "運命",
+      "結末",
+      "最期"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 955,
+    "word": "tragedy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "悲劇",
+      "悲劇的な事態"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 956,
+    "word": "scenario",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "筋書き",
+      "事態",
+      "脚本"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 957,
+    "word": "allergy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "アレルギー"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 958,
+    "word": "wound",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "傷",
+      "痛手"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 959,
+    "word": "antibiotic",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "抗生物質"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 960,
+    "word": "vaccine",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ワクチン"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 961,
+    "word": "metaphor",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "隠喩",
+      "比喩"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 962,
+    "word": "folk",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "人々",
+      "皆さん",
+      "家族"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 963,
+    "word": "fare",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "料金"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 964,
+    "word": "transition",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "移り変わり",
+      "過渡期"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 965,
+    "word": "maximum",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "最大限"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 966,
+    "word": "galaxy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "星雲",
+      "銀河",
+      "銀河系"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 967,
+    "word": "mineral",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "鉱物",
+      "ミネラル"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 968,
+    "word": "skeleton",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "骨格",
+      "骨組み",
+      "概略"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 969,
+    "word": "counterpart",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "相当する物",
+      "相当する人"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 970,
+    "word": "stroke",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "脳卒中",
+      "打つこと",
+      "一撃"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 971,
+    "word": "pedestrian",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "歩行者"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 972,
+    "word": "trail",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "小道",
+      "跡",
+      "手がかり"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 973,
+    "word": "ecology",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "生態学",
+      "生態系",
+      "環境保護"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 974,
+    "word": "sibling",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "きょうだい",
+      "きょうだいの1人"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 975,
+    "word": "ratio",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "比率"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 976,
+    "word": "mixture",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "混合",
+      "混合物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 977,
+    "word": "charm",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "魅力",
+      "お守り"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 978,
+    "word": "ambition",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "願望",
+      "野望",
+      "野心"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 979,
+    "word": "prominent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "卓越した",
+      "目立つ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 980,
+    "word": "radical",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "急進的な",
+      "根本的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 981,
+    "word": "prompt",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "即座の",
+      "迅速な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 982,
+    "word": "informal",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "形式ばらない",
+      "略式の",
+      "くだけた"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 983,
+    "word": "mutual",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "相互の",
+      "共通の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 984,
+    "word": "neutral",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "中立の",
+      "はっきりしない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 985,
+    "word": "alert",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "警戒して",
+      "敏速な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 986,
+    "word": "magnetic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "磁気の",
+      "磁石の",
+      "人を引きつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 987,
+    "word": "polar",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "極地の",
+      "電極の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 988,
+    "word": "fluent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "流ちょうな"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 989,
+    "word": "external",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "外部の",
+      "対外的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 990,
+    "word": "passive",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "受動的な",
+      "消極的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 991,
+    "word": "awful",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "ひどい",
+      "嫌な",
+      "ものすごい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 992,
+    "word": "unrelated",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "無関係の",
+      "血縁関係がない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 993,
+    "word": "cruel",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "残酷な",
+      "むごい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 994,
+    "word": "fake",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "偽の",
+      "見せかけだけの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 995,
+    "word": "vulnerable",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "弱い",
+      "もろい",
+      "傷つきやすい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 996,
+    "word": "urgent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "緊急の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 997,
+    "word": "spiritual",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "精神の",
+      "霊的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 998,
+    "word": "modest",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "謙虚な",
+      "適度な",
+      "質素な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 999,
+    "word": "keen",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "熱心な",
+      "鋭敏な",
+      "強い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1000,
+    "word": "nonetheless",
+    "pos": "🟪 副詞",
+    "meanings": [
+      "それにもかかわらず",
+      "それでもなお"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1001,
+    "word": "negotiate",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "交渉する",
+      "取り決める"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1002,
+    "word": "grasp",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "把握する",
+      "理解する",
+      "しっかり握る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1003,
+    "word": "donate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "寄付する",
+      "提供する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1004,
+    "word": "arrest",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "逮捕する",
+      "止める",
+      "注意を引く"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1005,
+    "word": "crack",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "ひびが入る",
+      "ひびを入れる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1006,
+    "word": "tap",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "軽くたたく",
+      "液体を出す",
+      "盗聴する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1007,
+    "word": "split",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "分割する",
+      "分担する",
+      "分裂する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1008,
+    "word": "forecast",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "予想する",
+      "予測する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1009,
+    "word": "exclude",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "除外する",
+      "排除する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1010,
+    "word": "overlook",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "見落とす",
+      "大目に見る",
+      "見渡す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1011,
+    "word": "burst",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "破裂する",
+      "突然現れる",
+      "突発する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1012,
+    "word": "heal",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "治る",
+      "治す",
+      "癒やす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1013,
+    "word": "forbid",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "禁じる",
+      "禁止する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1014,
+    "word": "install",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "設置する",
+      "導入する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1015,
+    "word": "diminish",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "減少する",
+      "減らす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1016,
+    "word": "cite",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引用する",
+      "例として挙げる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1017,
+    "word": "quote",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引用する",
+      "見積もる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1018,
+    "word": "dispute",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "異議を唱える",
+      "議論する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1019,
+    "word": "highlight",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "強調する",
+      "目立たせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1020,
+    "word": "distract",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "そらす",
+      "気を散らす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1021,
+    "word": "cheat",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "だます",
+      "カンニングする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1022,
+    "word": "foster",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "育てる",
+      "促進する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1023,
+    "word": "obey",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "従う",
+      "服従する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1024,
+    "word": "bend",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "曲がる",
+      "曲げる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1025,
+    "word": "deprive",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "奪う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1026,
+    "word": "govern",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "統治する",
+      "支配する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1027,
+    "word": "log",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "記録する",
+      "ログオンする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1028,
+    "word": "transmit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "伝える",
+      "送信する",
+      "伝染させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1029,
+    "word": "bully",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "いじめる",
+      "脅す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1030,
+    "word": "leap",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "跳ぶ",
+      "急増する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1031,
+    "word": "astonish",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "驚かせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1032,
+    "word": "thrill",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ぞくぞくさせる",
+      "興奮させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1033,
+    "word": "nod",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "うなずく",
+      "会釈する",
+      "うとうとする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1034,
+    "word": "bow",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "おじぎする",
+      "屈服する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1035,
+    "word": "blend",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "混ざる",
+      "混ぜる",
+      "調和する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1036,
+    "word": "complicate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "複雑にする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1037,
+    "word": "pitch",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "投げる",
+      "売り込む",
+      "設営する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1038,
+    "word": "persist",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "持続する",
+      "固執する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1039,
+    "word": "dedicate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ささげる",
+      "専念する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1040,
+    "word": "equip",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "備えつける",
+      "装備する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1041,
+    "word": "premise",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "前提",
+      "根拠",
+      "敷地"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1042,
+    "word": "input",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "入力",
+      "投入",
+      "入力情報"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1043,
+    "word": "merit",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "利点",
+      "価値",
+      "功績"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1044,
+    "word": "sympathy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "同情",
+      "共感",
+      "支持"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1045,
+    "word": "compliment",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "褒め言葉",
+      "賛辞"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1046,
+    "word": "infrastructure",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "社会基盤",
+      "インフラ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1047,
+    "word": "ray",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "光線",
+      "放射線",
+      "一筋の光"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1048,
+    "word": "distress",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "苦悩",
+      "困窮",
+      "苦痛"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1049,
+    "word": "joint",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "関節",
+      "接合部",
+      "共同のもの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1050,
+    "word": "expedition",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "遠征",
+      "探検隊"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1051,
+    "word": "adolescent",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "青年",
+      "思春期の若者"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1052,
+    "word": "shade",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "日陰",
+      "色合い",
+      "影"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1053,
+    "word": "jury",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "陪審員団",
+      "審査員団"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1054,
+    "word": "ethic",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "倫理",
+      "道徳観"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1055,
+    "word": "penalty",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "罰",
+      "罰金",
+      "ペナルティー"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1056,
+    "word": "faculty",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "能力",
+      "学部",
+      "教職員"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1057,
+    "word": "scheme",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "計画",
+      "仕組み",
+      "陰謀"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1058,
+    "word": "nutrition",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "栄養",
+      "栄養学"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1059,
+    "word": "particle",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "粒子",
+      "小片"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1060,
+    "word": "molecule",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "分子"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1061,
+    "word": "nationality",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "国籍",
+      "民族性"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1062,
+    "word": "poll",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "世論調査",
+      "投票"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1063,
+    "word": "clinic",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "診療所",
+      "クリニック"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1064,
+    "word": "dementia",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "認知症"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1065,
+    "word": "fatigue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "疲労",
+      "疲れ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1066,
+    "word": "dilemma",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "板挟み",
+      "ジレンマ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1067,
+    "word": "queue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "列"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1068,
+    "word": "curve",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "曲線",
+      "曲がり"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1069,
+    "word": "narrative",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "物語",
+      "語り"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1070,
+    "word": "fingerprint",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "指紋"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1071,
+    "word": "file",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ファイル",
+      "記録文書"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1072,
+    "word": "wilderness",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "荒野",
+      "原野"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1073,
+    "word": "pesticide",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "殺虫剤",
+      "農薬"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1074,
+    "word": "panic",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "恐慌",
+      "パニック"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1075,
+    "word": "fabric",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "布",
+      "織物",
+      "構造"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1076,
+    "word": "fantasy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "空想",
+      "幻想"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1077,
+    "word": "fancy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "好み",
+      "空想",
+      "装飾"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1078,
+    "word": "virtue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "美徳",
+      "長所"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1079,
+    "word": "grateful",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "感謝している"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1080,
+    "word": "valid",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "妥当な",
+      "有効な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1081,
+    "word": "elaborate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "精巧な",
+      "入念な",
+      "複雑な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1082,
+    "word": "moderate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "適度な",
+      "穏健な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1083,
+    "word": "dynamic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "活動的な",
+      "動的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1084,
+    "word": "brave",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "勇敢な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1085,
+    "word": "brilliant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "すばらしい",
+      "才能にあふれた",
+      "きらめく"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1086,
+    "word": "tremendous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "途方もない",
+      "莫大な",
+      "すばらしい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1087,
+    "word": "oral",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "口頭の",
+      "口の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1088,
+    "word": "innocent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "無罪の",
+      "無邪気な",
+      "無知の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1089,
+    "word": "subsequent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "その後の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1090,
+    "word": "shallow",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "浅い",
+      "浅薄な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1091,
+    "word": "indifferent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "無関心な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1092,
+    "word": "inferior",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "より劣った"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1093,
+    "word": "awkward",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "気まずい",
+      "ぎこちない",
+      "厄介な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1094,
+    "word": "obese",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "肥満した"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1095,
+    "word": "pregnant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "妊娠した",
+      "満ちている"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1096,
+    "word": "intimate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "親密な",
+      "密接な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1097,
+    "word": "medieval",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "中世の",
+      "時代遅れの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1098,
+    "word": "sacred",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "神聖な",
+      "宗教的な",
+      "厳粛な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1099,
+    "word": "simultaneously",
+    "pos": "🟪 副詞",
+    "meanings": [
+      "同時に",
+      "一斉に"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1100,
+    "word": "versus",
+    "pos": "🟥 熟語・その他",
+    "meanings": [
+      "A対B",
+      "AかBか"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1101,
+    "word": "proceed",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "進む",
+      "進行する",
+      "続行する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1102,
+    "word": "orient",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "慣らす",
+      "方向づける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1103,
+    "word": "surf",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "ネットを見て回る",
+      "サーフィンをする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1104,
+    "word": "filter",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ろ過する",
+      "取り除く"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1105,
+    "word": "bind",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "縛る",
+      "束縛する",
+      "結び付ける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1106,
+    "word": "resort",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "訴える",
+      "頼る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1107,
+    "word": "reinforce",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "強化する",
+      "補強する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1108,
+    "word": "accumulate",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "蓄積する",
+      "集める",
+      "積もる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1109,
+    "word": "bet",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "確信する",
+      "断言する",
+      "賭ける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1110,
+    "word": "advocate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "主張する",
+      "擁護する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1111,
+    "word": "constitute",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "構成する",
+      "占める"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1112,
+    "word": "undertake",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き受ける",
+      "保証する",
+      "着手する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1113,
+    "word": "grip",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "しっかり握る",
+      "理解する",
+      "とらえる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1114,
+    "word": "dismiss",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "解雇する",
+      "退ける",
+      "無視する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1115,
+    "word": "fade",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "薄れる",
+      "衰える",
+      "色あせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1116,
+    "word": "conceal",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "隠す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1117,
+    "word": "chew",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "かむ",
+      "よく考える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1118,
+    "word": "swallow",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "飲み込む",
+      "うのみにする",
+      "耐える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1119,
+    "word": "seal",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "密閉する",
+      "封をする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1120,
+    "word": "migrate",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "移住する",
+      "移動する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1121,
+    "word": "exaggerate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "誇張する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1122,
+    "word": "accuse",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "非難する",
+      "告訴する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1123,
+    "word": "vanish",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "消える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1124,
+    "word": "polish",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "磨く",
+      "洗練する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1125,
+    "word": "wipe",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "拭く",
+      "拭き取る",
+      "消し去る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1126,
+    "word": "sweep",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "掃く",
+      "一掃する",
+      "さっと通過する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1127,
+    "word": "mislead",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "誤解させる",
+      "惑わせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1128,
+    "word": "spoil",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "台無しにする",
+      "甘やかす",
+      "だめになる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1129,
+    "word": "compound",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "悪化させる",
+      "混合する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1130,
+    "word": "explode",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "爆発する",
+      "突然増える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1131,
+    "word": "disgust",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "むかつかせる",
+      "愛想を尽かせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1132,
+    "word": "commute",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "通勤する",
+      "通学する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1133,
+    "word": "decorate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "飾る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1134,
+    "word": "postpone",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "延期する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1135,
+    "word": "cease",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "やめる",
+      "終わる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1136,
+    "word": "compromise",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "妥協する",
+      "危うくする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1137,
+    "word": "elect",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "選出する",
+      "選ぶ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1138,
+    "word": "extract",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り出す",
+      "抜き取る",
+      "抜粋する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1139,
+    "word": "inherit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "受け継ぐ",
+      "相続する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1140,
+    "word": "rear",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "育てる",
+      "そびえ立つ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1141,
+    "word": "empathy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "共感",
+      "感情移入"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1142,
+    "word": "cue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "合図",
+      "きっかけ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1143,
+    "word": "enterprise",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "企業",
+      "事業",
+      "冒険心"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1144,
+    "word": "output",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "生産量",
+      "出力",
+      "産出物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1145,
+    "word": "congress",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "議会",
+      "大会",
+      "会議"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1146,
+    "word": "millennium",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "千年",
+      "千年間",
+      "千年紀"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1147,
+    "word": "mankind",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "人類"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1148,
+    "word": "Muslim",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "イスラム教徒"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1149,
+    "word": "estate",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "財産",
+      "不動産",
+      "地所"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1150,
+    "word": "landmine",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "地雷"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1151,
+    "word": "caution",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "用心",
+      "警告"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1152,
+    "word": "controversy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "論争",
+      "論議"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1153,
+    "word": "consensus",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "合意",
+      "総意"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1154,
+    "word": "retail",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "小売り",
+      "小売価格"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1155,
+    "word": "fiber",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "繊維",
+      "食物繊維"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1156,
+    "word": "scent",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "香り",
+      "におい",
+      "気配"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1157,
+    "word": "beverage",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "飲み物",
+      "飲料"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1158,
+    "word": "supplement",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "補足",
+      "補助食品",
+      "サプリメント"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1159,
+    "word": "diabetes",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "糖尿病"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1160,
+    "word": "province",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "州",
+      "省",
+      "地方"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1161,
+    "word": "reef",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "礁",
+      "岩礁"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1162,
+    "word": "microbe",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "微生物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1163,
+    "word": "excess",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "過剰",
+      "過剰なもの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1164,
+    "word": "gallery",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "美術館",
+      "画廊",
+      "ギャラリー"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1165,
+    "word": "fame",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "名声",
+      "有名であること"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1166,
+    "word": "deadline",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "締め切り",
+      "期限"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1167,
+    "word": "undergraduate",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "学部学生"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1168,
+    "word": "slavery",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "奴隷制度",
+      "奴隷状態"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1169,
+    "word": "prey",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "獲物",
+      "犠牲者"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1170,
+    "word": "mess",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "散らかった状態",
+      "めちゃくちゃ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1171,
+    "word": "recession",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "不況",
+      "景気後退"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1172,
+    "word": "retreat",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "退却",
+      "後退",
+      "静養所"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1173,
+    "word": "grave",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "墓",
+      "深刻さ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1174,
+    "word": "column",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "柱",
+      "コラム",
+      "欄"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1175,
+    "word": "scenery",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "景色",
+      "背景"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1176,
+    "word": "plot",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "筋書き",
+      "陰謀",
+      "区画"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1177,
+    "word": "sculpture",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "彫刻",
+      "彫像"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1178,
+    "word": "tablet",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "タブレット",
+      "錠剤",
+      "平板"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1179,
+    "word": "dense",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "密集した",
+      "濃い",
+      "密度の高い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1180,
+    "word": "exotic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "外来の",
+      "異国風の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1181,
+    "word": "acid",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "酸性の",
+      "酸っぱい",
+      "辛辣な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1182,
+    "word": "bitter",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "苦い",
+      "つらい",
+      "辛辣な",
+      "怒りっぽい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1183,
+    "word": "sensible",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "分別のある",
+      "賢明な",
+      "実用的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1184,
+    "word": "noble",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "高貴な",
+      "気高い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1185,
+    "word": "vague",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "漠然とした",
+      "あいまいな",
+      "おぼろげな"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1186,
+    "word": "parallel",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "平行な",
+      "類似した",
+      "並行した"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1187,
+    "word": "tense",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "張り詰めた",
+      "緊張した"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1188,
+    "word": "vertical",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "垂直の",
+      "縦方向の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1189,
+    "word": "indigenous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "先住の",
+      "固有の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1190,
+    "word": "aboriginal",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "アボリジニの",
+      "原生の",
+      "先住の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1191,
+    "word": "seasonal",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "季節の",
+      "季節的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1192,
+    "word": "abundant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "豊富な",
+      "富む"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1193,
+    "word": "hybrid",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "混成の",
+      "雑種の",
+      "ハイブリッドの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1194,
+    "word": "irrelevant",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "無関係の",
+      "見当違いの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1195,
+    "word": "ridiculous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "ばかげた",
+      "ばかばかしい",
+      "法外な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1196,
+    "word": "fairy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "妖精"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1197,
+    "word": "sensory",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "感覚の",
+      "知覚の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1198,
+    "word": "chronic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "慢性の",
+      "長引く",
+      "常習の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1199,
+    "word": "voluntary",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "自発的な",
+      "無償の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": []
+  },
+  {
+    "no": 1200,
+    "word": "inclined",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "傾向がある",
+      "傾いた"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1201,
+    "word": "infer",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "推論する",
+      "推測する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1202,
+    "word": "esteem",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "尊敬する",
+      "見なす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1203,
+    "word": "tackle",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り組む",
+      "話をつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1204,
+    "word": "venture",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "危険を冒して進む",
+      "思い切ってする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1205,
+    "word": "accelerate",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "加速させる",
+      "促進する",
+      "加速する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1206,
+    "word": "accustom",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "慣れさせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1207,
+    "word": "amuse",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "おもしろがらせる",
+      "楽しませる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1208,
+    "word": "flourish",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "繁栄する",
+      "繁茂する",
+      "振りかざす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1209,
+    "word": "thrive",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "繁栄する",
+      "うまくいく",
+      "繁茂する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1210,
+    "word": "nurture",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "はぐくむ",
+      "養成する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1211,
+    "word": "click",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "クリックする",
+      "カチッと鳴らす",
+      "カチッと音がする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1212,
+    "word": "spin",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "回転する",
+      "回転させる",
+      "紡ぐ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1213,
+    "word": "clip",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "切り抜く",
+      "切り取る",
+      "クリップで留める"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1214,
+    "word": "drag",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "引きずる",
+      "ぐずぐずする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1215,
+    "word": "cast",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "投じる",
+      "役を当てる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1216,
+    "word": "scatter",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "まき散らす",
+      "分散する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1217,
+    "word": "tempt",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "気にさせる",
+      "引きつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1218,
+    "word": "withdraw",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "引き出す",
+      "撤回する",
+      "撤退する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1219,
+    "word": "yawn",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "あくびをする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1220,
+    "word": "blink",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "まばたきする",
+      "点滅する",
+      "またたく"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1221,
+    "word": "dye",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "染める",
+      "染まる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1222,
+    "word": "spill",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "こぼす",
+      "こぼれる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1223,
+    "word": "irritate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "いら立たせる",
+      "刺激する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1224,
+    "word": "insult",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "侮辱する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1225,
+    "word": "enforce",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "施行する",
+      "強制する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1226,
+    "word": "rob",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "奪う",
+      "強盗を働く"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1227,
+    "word": "drain",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "排出する",
+      "消耗させる",
+      "排水する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1228,
+    "word": "suspend",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "一時停止する",
+      "つるす",
+      "停学にする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1229,
+    "word": "drift",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "漂う",
+      "漂流する",
+      "流す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1230,
+    "word": "forgive",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "許す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1231,
+    "word": "revise",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "修正する",
+      "改訂する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1232,
+    "word": "recruit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "募集する",
+      "採用する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1233,
+    "word": "twist",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "ねじる",
+      "ひねる",
+      "歪曲する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1234,
+    "word": "crush",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "押しつぶす",
+      "粉砕する",
+      "打ち負かす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1235,
+    "word": "pin",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ピンで留める",
+      "押さえつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1236,
+    "word": "uncover",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "暴く",
+      "発掘する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1237,
+    "word": "exploit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "利用する",
+      "搾取する",
+      "開発する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1238,
+    "word": "implement",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "実行する",
+      "実施する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1239,
+    "word": "integrate",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "統合する",
+      "融合する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1240,
+    "word": "incorporate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り入れる",
+      "組み込む"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1241,
+    "word": "profile",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "人物紹介",
+      "横顔",
+      "輪郭"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1242,
+    "word": "appetite",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "食欲",
+      "欲求"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1243,
+    "word": "impulse",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "衝動",
+      "刺激"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1244,
+    "word": "script",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "台本",
+      "脚本",
+      "文字体系"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1245,
+    "word": "anniversary",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "記念日"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1246,
+    "word": "pension",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "年金",
+      "恩給"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1247,
+    "word": "temper",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "気質",
+      "気性",
+      "機嫌",
+      "かんしゃく"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1248,
+    "word": "cortex",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "皮質"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1249,
+    "word": "syndrome",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "症候群"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1250,
+    "word": "chamber",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "部屋",
+      "議場",
+      "室"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1251,
+    "word": "utility",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "公共事業",
+      "公共料金",
+      "実用性"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1252,
+    "word": "cattle",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "牛"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1253,
+    "word": "herd",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "群れ",
+      "群れをなす動物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1254,
+    "word": "fluid",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "流体",
+      "液体"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1255,
+    "word": "pity",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "哀れみ",
+      "残念なこと"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1256,
+    "word": "priest",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "聖職者",
+      "司祭"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1257,
+    "word": "acquaintance",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "知人",
+      "面識",
+      "知識"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1258,
+    "word": "offspring",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "子",
+      "子孫"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1259,
+    "word": "famine",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "飢饉"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1260,
+    "word": "deforestation",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "森林伐採"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1261,
+    "word": "jail",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "刑務所",
+      "拘置所"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1262,
+    "word": "commodity",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "商品",
+      "有用なもの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1263,
+    "word": "format",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "形式",
+      "構成"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1264,
+    "word": "recipient",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "受取人",
+      "受賞者"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1265,
+    "word": "drill",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "訓練",
+      "ドリル",
+      "掘削機"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1266,
+    "word": "inability",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "無力",
+      "能力がないこと"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1267,
+    "word": "republic",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "共和国"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1268,
+    "word": "combat",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "戦闘",
+      "闘争"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1269,
+    "word": "debris",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "がれき",
+      "残骸"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1270,
+    "word": "bug",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "病原菌",
+      "虫",
+      "盗聴器",
+      "欠陥"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1271,
+    "word": "fraction",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "一部",
+      "分数",
+      "断片"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1272,
+    "word": "index",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "指標",
+      "索引",
+      "指数"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1273,
+    "word": "intuition",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "直感",
+      "直観"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1274,
+    "word": "motive",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "動機",
+      "目的"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1275,
+    "word": "consent",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "同意",
+      "承諾"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1276,
+    "word": "hierarchy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "階層",
+      "序列"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1277,
+    "word": "monument",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "記念碑",
+      "遺跡"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1278,
+    "word": "asset",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "資産",
+      "価値のあるもの",
+      "利点"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1279,
+    "word": "decent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "まともな",
+      "かなりの",
+      "きちんとした"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1280,
+    "word": "competent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "有能な",
+      "十分な能力のある"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1281,
+    "word": "straightforward",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "率直な",
+      "簡単な",
+      "わかりやすい"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1282,
+    "word": "cosmetic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "美容の",
+      "うわべだけの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1283,
+    "word": "delicate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "繊細な",
+      "壊れやすい",
+      "微妙な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1284,
+    "word": "interior",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "内部の",
+      "国内の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1285,
+    "word": "transparent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "透明な",
+      "明快な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1286,
+    "word": "aesthetic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "美的な",
+      "美学の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1287,
+    "word": "deliberate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "故意の",
+      "慎重な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1288,
+    "word": "demographic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "人口統計学の",
+      "人口の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1289,
+    "word": "prehistoric",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "先史時代の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1290,
+    "word": "innate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "生まれながらの",
+      "固有の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1291,
+    "word": "mild",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "穏やかな",
+      "程度が軽い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1292,
+    "word": "toxic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "有毒な",
+      "中毒性の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1293,
+    "word": "ashamed",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "恥じて"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1294,
+    "word": "humble",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "謙虚な",
+      "質素な",
+      "身分が低い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1295,
+    "word": "peculiar",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "特有の",
+      "特異な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1296,
+    "word": "steep",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "傾斜が急な",
+      "急激な",
+      "法外な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1297,
+    "word": "trivial",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "ささいな",
+      "取るに足りない"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1298,
+    "word": "magnificent",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "壮大な",
+      "見事な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1299,
+    "word": "wireless",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "無線の",
+      "ラジオの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1300,
+    "word": "ongoing",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "継続している",
+      "進行中の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1301,
+    "word": "agenda",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "議題",
+      "議事日程"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1302,
+    "word": "aisle",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "通路",
+      "座席間の通路"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1303,
+    "word": "ambiguous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "あいまいな",
+      "多義的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1304,
+    "word": "assemble",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "集める",
+      "組み立てる",
+      "集まる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1305,
+    "word": "assert",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "主張する",
+      "断言する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1306,
+    "word": "assure",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "保証する",
+      "安心させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1307,
+    "word": "blossom",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "花が咲く",
+      "発展する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1308,
+    "word": "boast",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "誇る",
+      "自慢する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1309,
+    "word": "chaos",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "混沌",
+      "大混乱"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1310,
+    "word": "cluster",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "集団",
+      "群れ",
+      "房"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1311,
+    "word": "compel",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "強いる",
+      "無理にさせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1312,
+    "word": "compensate",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "補償する",
+      "償う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1313,
+    "word": "comprise",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "構成する",
+      "成る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1314,
+    "word": "compulsory",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "義務的な",
+      "強制的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1315,
+    "word": "contemplate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "熟考する",
+      "じっくり考える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1316,
+    "word": "contradict",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "矛盾する",
+      "反論する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1317,
+    "word": "contribute",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "貢献する",
+      "寄付する",
+      "寄稿する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1318,
+    "word": "coordinate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "調整する",
+      "調和させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1319,
+    "word": "cope",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "対処する",
+      "うまく対処する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1320,
+    "word": "cultivate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "耕す",
+      "育てる",
+      "養う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1321,
+    "word": "dedicate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ささげる",
+      "専念する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1322,
+    "word": "deprive",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "奪う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1323,
+    "word": "despise",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "軽蔑する",
+      "ひどく嫌う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1324,
+    "word": "devastate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "荒廃させる",
+      "打ちのめす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1325,
+    "word": "diagnose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "診断する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1326,
+    "word": "disrupt",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "混乱させる",
+      "中断させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1327,
+    "word": "distort",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "ゆがめる",
+      "歪曲する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1328,
+    "word": "dominate",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "支配する",
+      "優位に立つ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1329,
+    "word": "eliminate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り除く",
+      "排除する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1330,
+    "word": "embrace",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "抱きしめる",
+      "受け入れる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1331,
+    "word": "encounter",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "遭遇する",
+      "出会う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1332,
+    "word": "endure",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "耐える",
+      "我慢する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1333,
+    "word": "evoke",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "呼び起こす",
+      "喚起する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1334,
+    "word": "exclude",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "除外する",
+      "締め出す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1335,
+    "word": "foster",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "育てる",
+      "促進する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1336,
+    "word": "fulfill",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "果たす",
+      "実現する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1337,
+    "word": "generate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "生み出す",
+      "発生させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1338,
+    "word": "guarantee",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "保証する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1339,
+    "word": "highlight",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "強調する",
+      "目立たせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1340,
+    "word": "impose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "課す",
+      "押しつける"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1341,
+    "word": "induce",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き起こす",
+      "説得してさせる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1342,
+    "word": "inspect",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "検査する",
+      "調査する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1343,
+    "word": "interfere",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "干渉する",
+      "邪魔をする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1344,
+    "word": "isolate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "孤立させる",
+      "隔離する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1345,
+    "word": "justify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "正当化する",
+      "弁明する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1346,
+    "word": "launch",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "開始する",
+      "打ち上げる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1347,
+    "word": "legislate",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "法律を制定する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1348,
+    "word": "manipulate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "操作する",
+      "巧みに扱う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1349,
+    "word": "minimize",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "最小限にする",
+      "軽視する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1350,
+    "word": "modify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "修正する",
+      "変更する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1351,
+    "word": "negotiate",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "交渉する",
+      "交渉して取り決める"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1352,
+    "word": "observe",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "観察する",
+      "守る",
+      "述べる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1353,
+    "word": "overcome",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "克服する",
+      "打ち勝つ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1354,
+    "word": "perceive",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "知覚する",
+      "気づく"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1355,
+    "word": "presume",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "推測する",
+      "当然と思う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1356,
+    "word": "prohibit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "禁止する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1357,
+    "word": "promote",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "促進する",
+      "昇進させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1358,
+    "word": "provoke",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き起こす",
+      "挑発する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1359,
+    "word": "pursue",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "追求する",
+      "追跡する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1360,
+    "word": "regulate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "規制する",
+      "調整する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1361,
+    "word": "retain",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "保持する",
+      "維持する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1362,
+    "word": "reveal",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "明らかにする",
+      "暴露する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1363,
+    "word": "speculate",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "推測する",
+      "投機する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1364,
+    "word": "sustain",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "維持する",
+      "支える",
+      "持続させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1365,
+    "word": "transform",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "変える",
+      "変わる",
+      "変革する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1366,
+    "word": "transmit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "伝える",
+      "送信する",
+      "伝染させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1367,
+    "word": "undermine",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "弱体化させる",
+      "むしばむ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1368,
+    "word": "underestimate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "過小評価する",
+      "軽く見る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1369,
+    "word": "weave",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "織る",
+      "作り上げる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1370,
+    "word": "accumulate",
+    "pos": "🟦 動詞・自動詞・他動詞",
+    "meanings": [
+      "蓄積する",
+      "積もる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1371,
+    "word": "behalf",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "利益",
+      "味方",
+      "〜のため"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1372,
+    "word": "breakthrough",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "大発見",
+      "飛躍的進歩"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1373,
+    "word": "census",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "国勢調査",
+      "人口調査"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1374,
+    "word": "colleague",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "同僚"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1375,
+    "word": "contempt",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "軽蔑",
+      "侮蔑"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1376,
+    "word": "deficiency",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "不足",
+      "欠乏"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1377,
+    "word": "dilemma",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ジレンマ",
+      "板挟み"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1378,
+    "word": "dignity",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "尊厳",
+      "威厳"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1379,
+    "word": "discourse",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "言説",
+      "談話",
+      "講演"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1380,
+    "word": "diversity",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "多様性"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1381,
+    "word": "duration",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "継続時間",
+      "持続期間"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1382,
+    "word": "enthusiasm",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "熱意",
+      "熱狂"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1383,
+    "word": "ethics",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "倫理",
+      "倫理学"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1384,
+    "word": "framework",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "枠組み",
+      "骨格"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1385,
+    "word": "fundamental",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "基本",
+      "原理"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1386,
+    "word": "infrastructure",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "社会基盤",
+      "インフラ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1387,
+    "word": "landmark",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "目印",
+      "画期的な出来事"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1388,
+    "word": "metabolism",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "新陳代謝",
+      "代謝"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1389,
+    "word": "perspective",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "観点",
+      "見方"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1390,
+    "word": "phenomenon",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "現象"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1391,
+    "word": "predator",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "捕食者",
+      "捕食動物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1392,
+    "word": "revenue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "歳入",
+      "収益"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1393,
+    "word": "spectrum",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "範囲",
+      "スペクトル"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1394,
+    "word": "substitute",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "代用品",
+      "代わり"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1395,
+    "word": "transaction",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "取引",
+      "交流"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1396,
+    "word": "vacuum",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "真空",
+      "空虚"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1397,
+    "word": "welfare",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "福祉",
+      "幸福"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1398,
+    "word": "beverage",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "飲料",
+      "飲み物"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1399,
+    "word": "fossil",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "化石"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1400,
+    "word": "habitat",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "生息地",
+      "生息環境"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1401,
+    "word": "update",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "最新のものにする",
+      "アップデートする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1402,
+    "word": "refresh",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "さわやかにする",
+      "新たにする",
+      "最新のものにする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1403,
+    "word": "bloom",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "花が咲く",
+      "栄える"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1404,
+    "word": "conquer",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "征服する",
+      "克服する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1405,
+    "word": "induce",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引き起こす",
+      "説得する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1406,
+    "word": "attain",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "獲得する",
+      "達成する",
+      "達する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1407,
+    "word": "spray",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "吹きかける",
+      "吹きつける",
+      "噴霧する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1408,
+    "word": "retrieve",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "検索する",
+      "取り戻す",
+      "回復する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1409,
+    "word": "portray",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "描く",
+      "演じる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1410,
+    "word": "scratch",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "引っかく",
+      "取り消す",
+      "削除する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1411,
+    "word": "designate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "指定する",
+      "任命する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1412,
+    "word": "contradict",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "矛盾する",
+      "反対意見を言う"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1413,
+    "word": "sigh",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "ため息をつく"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1414,
+    "word": "disrupt",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "混乱させる",
+      "分裂させる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1415,
+    "word": "depart",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "出発する",
+      "それる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1416,
+    "word": "navigate",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "誘導する",
+      "操縦する",
+      "航行する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1417,
+    "word": "beg",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "切に頼む",
+      "懇願する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1418,
+    "word": "inhabit",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "住んでいる",
+      "宿る",
+      "存在する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1419,
+    "word": "diagnose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "診断する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1420,
+    "word": "comprehend",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "理解する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1421,
+    "word": "oblige",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "義務づける",
+      "恩恵を施す"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1422,
+    "word": "cram",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "詰め込む",
+      "詰め込み勉強をする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1423,
+    "word": "flock",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "群がる",
+      "集まる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1424,
+    "word": "underestimate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "過小評価する",
+      "軽く見る",
+      "少なく見積もる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1425,
+    "word": "clarify",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "明確にする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1426,
+    "word": "spark",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "引き起こす",
+      "刺激する",
+      "火花を散らす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1427,
+    "word": "seize",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "つかむ",
+      "奪い取る",
+      "没収する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1428,
+    "word": "soar",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "急上昇する",
+      "空高く飛ぶ"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1429,
+    "word": "glow",
+    "pos": "🟦 動詞・自動詞",
+    "meanings": [
+      "光り輝く",
+      "赤く燃える",
+      "紅潮する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1430,
+    "word": "disguise",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "変装させる",
+      "偽る"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1431,
+    "word": "distort",
+    "pos": "🟦 動詞・他動詞・自動詞",
+    "meanings": [
+      "歪める",
+      "歪む"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1432,
+    "word": "undermine",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "徐々にむしばむ",
+      "侵食する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1433,
+    "word": "abolish",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "廃止する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1434,
+    "word": "strip",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "取り去る",
+      "裸にする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1435,
+    "word": "dispose",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "処分する",
+      "配置する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1436,
+    "word": "dump",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "投棄する",
+      "どさっと落とす"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1437,
+    "word": "weave",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "織る",
+      "作り上げる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1438,
+    "word": "refine",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "洗練する",
+      "精製する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1439,
+    "word": "enrich",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "豊かにする",
+      "濃縮する"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1440,
+    "word": "coordinate",
+    "pos": "🟦 動詞・他動詞",
+    "meanings": [
+      "調整する",
+      "組織する",
+      "コーディネートする"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1441,
+    "word": "headline",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "見出し"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1442,
+    "word": "internship",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "実務研修",
+      "医学研修",
+      "研修期間"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1443,
+    "word": "outlet",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "直売店",
+      "特売店",
+      "はけ口",
+      "コンセント"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1444,
+    "word": "remedy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "治療法",
+      "治療薬",
+      "解決法"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1445,
+    "word": "pill",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "錠剤",
+      "丸薬"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1446,
+    "word": "reception",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "反応",
+      "宴会",
+      "受付",
+      "受信"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1447,
+    "word": "transaction",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "取引",
+      "交流"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1448,
+    "word": "mutation",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "突然変異",
+      "変化"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1449,
+    "word": "dairy",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "乳製品",
+      "乳製品加工所"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1450,
+    "word": "compassion",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "同情"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1451,
+    "word": "posture",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "姿勢",
+      "心構え"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1452,
+    "word": "curse",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "悪態",
+      "ののしりの言葉",
+      "呪い",
+      "災い"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1453,
+    "word": "funeral",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "葬式"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1454,
+    "word": "census",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "国勢調査",
+      "交通調査"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1455,
+    "word": "encyclopedia",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "百科事典"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1456,
+    "word": "cereal",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "穀物",
+      "シリアル"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1457,
+    "word": "fragment",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "断片"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1458,
+    "word": "patch",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "部分",
+      "斑点",
+      "継ぎ",
+      "貼り薬"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1459,
+    "word": "rubbish",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "ごみ",
+      "つまらないもの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1460,
+    "word": "maze",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "迷路",
+      "複雑に込み入ったもの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1461,
+    "word": "outlook",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "見解",
+      "見通し",
+      "眺め"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1462,
+    "word": "breakthrough",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "大発見",
+      "飛躍的進歩"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1463,
+    "word": "triumph",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "勝利",
+      "勝利の喜び",
+      "偉業"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1464,
+    "word": "ally",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "同盟国",
+      "提携者",
+      "援助者",
+      "盟友"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1465,
+    "word": "spectator",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "観客"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1466,
+    "word": "sphere",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "領域",
+      "球体",
+      "天体"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1467,
+    "word": "county",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "郡",
+      "州"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1468,
+    "word": "behalf",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "利益",
+      "味方"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1469,
+    "word": "interval",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "間隔",
+      "合間",
+      "隔たり",
+      "小休止"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1470,
+    "word": "circulation",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "循環",
+      "流通",
+      "発行部数"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1471,
+    "word": "blade",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "刃",
+      "羽根",
+      "葉"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1472,
+    "word": "theft",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "窃盗",
+      "窃盗罪"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1473,
+    "word": "vacuum",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "真空",
+      "空虚"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1474,
+    "word": "collision",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "衝突",
+      "対立"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1475,
+    "word": "bargain",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "買い得品",
+      "取引",
+      "契約"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1476,
+    "word": "landmark",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "目印",
+      "画期的な出来事"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1477,
+    "word": "revenue",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "歳入",
+      "収益"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1478,
+    "word": "treaty",
+    "pos": "🟩 名詞",
+    "meanings": [
+      "条約",
+      "協定"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1479,
+    "word": "supreme",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "最高の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1480,
+    "word": "thorough",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "徹底的な",
+      "まったくの"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1481,
+    "word": "naked",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "裸の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1482,
+    "word": "sincere",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "心からの",
+      "誠実な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1483,
+    "word": "tame",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "飼いならされた",
+      "人に慣れた",
+      "退屈な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1484,
+    "word": "insufficient",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "不十分な",
+      "不適当な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1485,
+    "word": "dim",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "薄暗い",
+      "ぼんやりした"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1486,
+    "word": "acute",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "激しい",
+      "鋭い",
+      "急性の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1487,
+    "word": "disabled",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "障害のある",
+      "障害者用の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1488,
+    "word": "metropolitan",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "大都市の",
+      "首都圏の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1489,
+    "word": "monetary",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "金銭的な",
+      "金融の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1490,
+    "word": "alternate",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "代わりの",
+      "交互の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1491,
+    "word": "partial",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "部分的な",
+      "不公平な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1492,
+    "word": "divine",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "神の",
+      "神にささげる"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1493,
+    "word": "drastic",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "徹底的な",
+      "抜本的な",
+      "極端な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1494,
+    "word": "fierce",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "猛烈な",
+      "どう猛な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1495,
+    "word": "sole",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "唯一の",
+      "単独の",
+      "独占的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1496,
+    "word": "spontaneous",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "自然発生的な",
+      "自発的な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1497,
+    "word": "spatial",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "空間の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1498,
+    "word": "neat",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "きちんとした",
+      "見事な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1499,
+    "word": "tidy",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "きちんとした",
+      "整頓された",
+      "相当の"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  },
+  {
+    "no": 1500,
+    "word": "loyal",
+    "pos": "🟨 形容詞",
+    "meanings": [
+      "忠実な",
+      "誠実な"
+    ],
+    "difficulty": "core",
+    "review_weight": 0,
+    "tags": [
+      "part2-late"
+    ]
+  }
+]

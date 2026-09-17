@@ -1,0 +1,9 @@
+{
+  "name": "ターゲット1900 スピードテスト",
+  "short_name": "ターゲット50問",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1677ff",
+  "lang": "ja"
+}

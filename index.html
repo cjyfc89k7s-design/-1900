@@ -1,0 +1,296 @@
+<!doctype html><html lang="ja"><head><meta name="phase" content="PHASE2-ADAPTIVE"><meta name="app-version" content="v12-optimized">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1677ff"><link rel="manifest" href="manifest.json"><title>Target 1900 Speed Test</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f4f7fb;color:#101828;font-family:-apple-system,BlinkMacSystemFont,"Noto Sans JP",sans-serif}
+.app{max-width:760px;margin:auto;min-height:100vh;background:#fff}.top{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid #e5e7eb;padding:12px 14px}
+.brand{font-weight:850}.sub{font-size:11px;color:#667085;margin-top:2px}main{padding:12px 14px}.hide{display:none!important}
+.card{background:#f7faff;border:1px solid #e1e9f4;border-radius:18px;padding:18px}.btn{border:0;border-radius:13px;padding:13px 15px;font-weight:800;font-size:16px;cursor:pointer}.primary{background:#1677ff;color:#fff;width:100%}.muted{background:#eef2f7;color:#344054}
+.spec{line-height:1.8;color:#475467;font-size:14px;margin:12px 0 18px}.title{font-size:28px;font-weight:900;margin:4px 0}
+.hud{display:grid;grid-template-columns:1fr auto;align-items:end}.q{font-weight:850}.time{font-size:25px;font-weight:900;font-variant-numeric:tabular-nums}.prog{height:7px;background:#e8edf3;border-radius:99px;margin:7px 0;overflow:hidden}.bar{height:100%;background:#1677ff;width:0}
+.stats{display:flex;gap:9px;flex-wrap:wrap;color:#667085;font-size:11px}.wordbox{text-align:center;padding:18px 4px 10px}.no{display:inline-block;background:#f0f2f5;border-radius:999px;padding:4px 9px;font-size:11px;color:#667085}.word{font-size:clamp(40px,11vw,64px);font-weight:900;margin:10px 0 6px}.pos{display:inline-block;border-radius:999px;padding:5px 9px;background:#eaf4ff;color:#1263c9;font-weight:800;font-size:12px}.inst{color:#475467;margin:12px 0 8px}.ans{width:100%;padding:12px;border:2px solid #d0d5dd;border-radius:12px;font-size:18px;outline:none}.ans:focus{border-color:#1677ff}.next{margin-top:8px}.enter{text-align:center;font-size:11px;color:#98a2b3;margin-top:6px}
+.result{text-align:center}.score{font-size:54px;font-weight:950;color:#1677ff}.grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}.metric{background:#f8fafc;border-radius:13px;padding:11px}.metric b{display:block;font-size:20px;margin-top:2px}
+.table{overflow:auto;margin-top:14px}table{width:100%;border-collapse:collapse;font-size:12px}th,td{padding:8px 6px;border-bottom:1px solid #eaecf0;text-align:left;white-space:nowrap}.bad{background:#fff2f0}.ok{color:#067647;font-weight:800}.ng{color:#b42318;font-weight:800}
+.review{text-align:left;background:#fff7e6;border-radius:13px;padding:12px;margin:14px 0}.review h3{margin:0 0 8px}
+@media(max-width:500px){main{padding:9px}.card{padding:14px}.wordbox{padding-top:10px}.word{margin:8px 0 5px}.spec{margin-bottom:14px}.ans{padding:10px}}
+</style>
+<style>
+.analysis-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:12px}
+.analysis-card{padding:12px;border:1px solid var(--border,#ddd);border-radius:12px;background:var(--panel,#fff)}
+.analysis-card b{font-size:1.15em}.mini-bar{height:7px;border-radius:8px;background:#e8e8e8;overflow:hidden;margin-top:6px}.mini-bar i{display:block;height:100%;background:currentColor;width:0}
+.tag{display:inline-block;padding:3px 7px;border-radius:999px;background:#f0f0f0;margin:2px;font-size:.82em}
+@media(max-width:600px){.analysis-grid{grid-template-columns:1fr}}
+</style>
+</head><body><div class="app">
+<div class="top"><div class="brand">英単語スピードテスト</div><div class="sub">ターゲット1900 6訂版 / 個人学習アプリ / 801–1500</div></div>
+<main>
+<section id="home">
+<div class="card"><div class="title">ターゲット1900</div>
+<div class="spec">英単語の「知っている」ではなく、<b>日本語の意味を素早く取り出す</b>ための個人用スピードテスト。</div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+<button class="btn primary" id="startToday">今日の50問</button>
+<button class="btn muted" id="startReview">復習50問</button>
+<button class="btn muted" id="startWeak">苦手優先50問</button>
+<button class="btn muted" id="startRandom">ランダム50問</button>
+</div></div>
+<div style="height:9px"></div>
+<div class="card"><b>成績ダッシュボード</b>
+<div id="dashboard" style="margin-top:10px;color:#667085;font-size:13px">まだ記録がありません。</div></div>
+<div style="height:9px"></div>
+<div class="card"><b>直近の履歴</b><div id="history" style="margin-top:8px;color:#667085;font-size:13px">まだ記録がありません。</div></div>
+</section>
+<section id="quiz" class="hide"><div class="hud"><div class="q" id="q">1 / 50</div><div class="time" id="time">05:00</div></div>
+<div class="prog"><div class="bar" id="bar"></div></div><div class="stats"><span>理想 <b id="ideal">1</b></span><span>回答済 <b id="done">0</b></span><span>差 <b id="diff">-1</b></span><span>予測 <b id="forecast">0</b></span></div>
+<div class="wordbox"><div class="no" id="no"></div><div class="word" id="word"></div><div class="pos" id="pos"></div><div class="inst">この単語の意味を日本語で答えてください。</div>
+<input class="ans" id="ans" autocomplete="off" placeholder="日本語で入力"><button class="btn primary next" id="next">次へ ▶</button><div class="enter">Enter / Return でも次へ</div></div></section>
+<section id="result" class="hide"><div class="result"><div>🏁 テスト終了</div><div class="score" id="score">0 / 50</div><div id="acc"></div></div>
+<div class="grid"><div class="metric">回答数<b id="ra"></b></div><div class="metric">未回答<b id="rs"></b></div><div class="metric">経過<b id="re"></b></div><div class="metric">平均<b id="rav"></b></div><div class="metric">ペース<b id="rp"></b></div><div class="metric">目標<b>10/分</b></div></div>
+<div class="review" id="review"></div><div class="table"><table><thead><tr><th>No.</th><th>単語</th><th>回答</th><th>判定</th><th>時間</th></tr></thead><tbody id="tbody"></tbody></table></div>
+<button class="btn primary" id="again" style="margin-top:12px">もう一度</button><button class="btn muted" id="homeBtn" style="width:100%;margin-top:8px">ホームへ</button></section>
+</main></div>
+<script>
+/* PHASE2: preserve existing stats while adding adaptive-review metadata */
+(function(){
+  try {
+    const s=JSON.parse(localStorage.getItem('target_stats')||'{}');
+    let changed=false;
+    Object.keys(s).forEach(k=>{
+      if(typeof s[k].reviewWeight!=='number'){s[k].reviewWeight=0;changed=true;}
+      if(typeof s[k].streak!=='number'){s[k].streak=0;changed=true;}
+    });
+    if(changed)localStorage.setItem('target_stats',JSON.stringify(s));
+  } catch(e){}
+})();
+</script>
+<script>
+let DATA=[],TOTAL=50,LIMIT=300000,idx=0,answers=[],started=0,lastQ=0,timer=null,ended=false,mode="today",session=[];
+const $=x=>document.getElementById(x);
+async function init(){DATA=await fetch("data.json").then(r=>r.json());renderHome()}
+function norm(s){return(s||"").replace(/[ 　、。・,，.!！?？「」『』【】（）()［］\[\]〜～]/g,"").toLowerCase()}
+function correct(a,m){a=norm(a);return !!a&&m.some(x=>{x=norm(x);return a===x||(a.length>=3&&x.length>=3&&(a.includes(x)||x.includes(a)))})}
+function fmt(ms){let s=Math.max(0,Math.floor(ms/1000)),m=Math.floor(s/60),r=s%60;return String(m).padStart(2,"0")+":"+String(r).padStart(2,"0")}
+function show(id){["home","quiz","result"].forEach(x=>$(x).classList.toggle("hide",x!==id))}
+function getStats(){return JSON.parse(localStorage.getItem("target_stats")||"{}")}
+function saveStats(){localStorage.setItem("target_stats",JSON.stringify(stats))}
+let stats=getStats(); if(!stats.words)stats.words={}; if(!stats.tests)stats.tests=0; if(!stats.totalAnswered)stats.totalAnswered=0; if(!stats.totalCorrect)stats.totalCorrect=0; Object.values(stats.words).forEach(w=>{if(typeof w.reviewWeight!=="number")w.reviewWeight=0;if(typeof w.streak!=="number")w.streak=0;if(typeof w.lastSeen!=="number")w.lastSeen=0;if(typeof w.nextDue!=="number")w.nextDue=0;if(typeof w.avgMs!=="number")w.avgMs=w.seen?w.totalMs/w.seen:0;if(typeof w.lastResult!=="string")w.lastResult=""}); saveStats();
+function renderHome(){
+  let h=JSON.parse(localStorage.getItem("target_history")||"[]");
+  $("history").innerHTML=h.length?h.slice(0,7).map(x=>`${x.date}　<b>${x.good}/${TOTAL}</b>　${Math.round(x.good/TOTAL*100)}%　${x.mode}`).join("<br>"):"まだ記録がありません。";
+  let acc=stats.totalAnswered?Math.round(stats.totalCorrect/stats.totalAnswered*100):0;
+  let covered=Object.keys(stats.words).length;
+  let weak=Object.values(stats.words).filter(w=>(w.wrong||0)+(w.slow||0)>0).length;
+  $("dashboard").innerHTML=`累計テスト <b>${stats.tests}回</b>　｜　累計回答 <b>${stats.totalAnswered}</b>問　｜　累計正答率 <b>${acc}%</b><br>学習済み記録 <b>${covered}語</b>　｜　要復習候補 <b>${weak}語</b>　｜　収録範囲 <b>801–1500</b>`;
+}
+function reviewWeight(d){
+  const w=stats.words[d.no]; if(!w)return 2.5;
+  const avg=w.avgMs||0, due=(w.nextDue||0)<=Date.now();
+  let x=1+(w.wrong||0)*4+(w.slow||0)*2+(avg>=6000?2:avg>=4500?1:0)+(w.streak===0?1:0)+(due?2:0);
+  if(w.lastResult==="correct"&&(w.streak||0)>=3&&!due)x*=0.35;
+  return Math.max(.2,Math.min(30,x));
+}
+function weightedSample(base,n,seed){
+  let pool=base.map(d=>({d,w:reviewWeight(d)})),out=[];
+  while(pool.length&&out.length<n){let total=pool.reduce((s,x)=>s+x.w,0),r=Math.random()*total,at=pool.length-1;for(let i=0;i<pool.length;i++){r-=pool[i].w;if(r<=0){at=i;break}}out.push(pool[at].d);pool.splice(at,1)}
+  return out;
+}
+function buildSession(m){
+  mode=m; const base=[...DATA];
+  if(m==="random"){base.sort(()=>Math.random()-.5);session=base.slice(0,TOTAL);return}
+  if(m==="review"||m==="weak"){base.sort((a,b)=>reviewWeight(b)-reviewWeight(a));session=base.slice(0,TOTAL);return}
+  // 今日の50問: 苦手・期限到来を中心にしつつ未出題も混ぜる
+  const ranked=weightedSample(base,Math.min(100,base.length),Date.now());
+  const unseen=base.filter(d=>!stats.words[d.no]);
+  const fresh=weightedSample(unseen,Math.min(10,unseen.length),Date.now()+17);
+  const used=new Set(fresh.map(d=>d.no));
+  const adaptive=ranked.filter(d=>!used.has(d.no)).slice(0,TOTAL-fresh.length);
+  session=[...adaptive,...fresh].slice(0,TOTAL); session.sort(()=>Math.random()-.5);
+}
+function start(m){buildSession(m);idx=0;answers=[];ended=false;started=Date.now();lastQ=started;show("quiz");render();clearInterval(timer);timer=setInterval(hud,200)}
+function render(){let d=session[idx];$("q").textContent=`${idx+1} / ${TOTAL}`;$("no").textContent=`No.${d.no}`;$("word").textContent=d.word;$("pos").textContent=d.pos;$("ans").value="";$("ans").focus();hud()}
+function hud(){if(ended)return;let elapsed=Date.now()-started,rem=Math.max(0,LIMIT-elapsed);$("time").textContent=fmt(rem);$("bar").style.width=(idx/TOTAL*100)+"%";let ideal=Math.min(TOTAL,Math.floor(elapsed/60000*10)+1),done=answers.filter(Boolean).length;$("ideal").textContent=ideal;$("done").textContent=done;$("diff").textContent=done-ideal;$("forecast").textContent=elapsed?Math.min(TOTAL,Math.round(done*LIMIT/elapsed)):0;if(rem<=0)finish()}
+function next(){if(ended)return;let d=session[idx],now=Date.now(),ms=now-lastQ,val=$("ans").value.trim();answers[idx]={answer:val,correct:correct(val,d.meanings),ms};if(idx===TOTAL-1){finish();return}idx++;lastQ=now;render()}
+function finish(){
+ if(ended)return;ended=true;clearInterval(timer);let elapsed=Math.min(LIMIT,Date.now()-started),done=answers.filter(Boolean).length,good=answers.filter(x=>x?.correct).length;
+ $("score").textContent=`${good} / ${TOTAL}`;$("acc").textContent=`正答率 ${Math.round(good/TOTAL*100)}%`;
+ $("ra").textContent=done;$("rs").textContent=TOTAL-done;$("re").textContent=fmt(elapsed);
+ $("rav").textContent=done?(answers.reduce((s,x)=>s+(x?.ms||0),0)/done/1000).toFixed(1)+"秒":"—";
+ $("rp").textContent=(elapsed?done/(elapsed/60000):0).toFixed(1)+"問/分";
+ let bad=session.filter((d,i)=>answers[i]&&!answers[i].correct),slow=session.filter((d,i)=>answers[i]&&answers[i].ms>=8000);
+ $("review").innerHTML=(bad.length?`<h3>📚 間違えた単語</h3>${bad.map(d=>`<div><b>No.${d.no} ${d.word}</b> — ${d.meanings.join("・")}</div>`).join("")}`:"<h3>🎉 不正解なし</h3>")+
+ (slow.length?`<h3 style="margin-top:12px">⏱ 6秒以上かかった単語</h3>${slow.map(d=>`<div><b>${d.word}</b></div>`).join("")}`:"");
+ $("tbody").innerHTML=session.map((d,i)=>{let a=answers[i];return `<tr class="${a&&!a.correct?'bad':''}"><td>${d.no}</td><td>${d.word}</td><td>${a?.answer||"—"}</td><td class="${a?.correct?'ok':'ng'}">${a?(a.correct?'○':'×'):'未回答'}</td><td>${a?(a.ms/1000).toFixed(1)+"秒":"—"}</td></tr>`}).join("");
+ // Update persistent word-level stats
+ session.forEach((d,i)=>{let a=answers[i],w=stats.words[d.no]||{seen:0,correct:0,wrong:0,slow:0,totalMs:0,reviewWeight:0,streak:0,lastSeen:0,nextDue:0,avgMs:0,lastResult:""};w.seen++;if(a?.correct){w.correct++;w.streak=(w.streak||0)+1;w.lastResult="correct";w.reviewWeight=Math.max(0,(w.reviewWeight||0)-(w.streak>=3?2:1));}else{w.wrong++;w.streak=0;w.lastResult="wrong";w.reviewWeight=Math.min(30,(w.reviewWeight||0)+4);}if(a&&a.ms>=6000){w.slow++;w.reviewWeight=Math.min(30,(w.reviewWeight||0)+2);}w.totalMs+=(a?.ms||0);w.avgMs=w.totalMs/w.seen;w.lastSeen=Date.now();w.nextDue=Date.now()+(a?.correct?(a.ms>=6000?1:(w.streak>=4?7:w.streak>=2?4:2)):0)*86400000;stats.words[d.no]=w});
+ stats.tests++;stats.totalAnswered+=done;stats.totalCorrect+=good;saveStats();
+ let hist=JSON.parse(localStorage.getItem("target_history")||"[]");hist.unshift({date:new Date().toLocaleString("ja-JP"),good,done,mode,elapsed});localStorage.setItem("target_history",JSON.stringify(hist.slice(0,50)));
+ show("result")
+}
+function saveStats(){localStorage.setItem("target_stats",JSON.stringify(stats))}
+$("startToday").onclick=()=>start("today");$("startReview").onclick=()=>start("review");$("startWeak").onclick=()=>start("weak");$("startRandom").onclick=()=>start("random");
+$("next").onclick=next;$("ans").addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();next()}});
+$("again").onclick=()=>start(mode);$("homeBtn").onclick=()=>{renderHome();show("home")};init();
+if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+<script>
+/* Phase 2.1: forgetting schedule + speed bands + adaptive 50 + weekly analytics + data audit */
+(function(){
+  const KEY='target_stats';
+  const HIST='target_history';
+  const DAY=86400000;
+  const SLOW_MS=6000;
+
+  function loadStats(){try{return JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){return {}}}
+  function saveStats(s){localStorage.setItem(KEY,JSON.stringify(s))}
+  function loadHist(){try{return JSON.parse(localStorage.getItem(HIST)||'[]')}catch(e){return []}}
+  function today(){return new Date().toISOString().slice(0,10)}
+  function ensure(s,id){
+    if(!s[id]) s[id]={seen:0,correct:0,wrong:0,slow:0,totalMs:0,streak:0,reviewWeight:0,nextDue:null,interval:0,lastSeen:null};
+    return s[id]
+  }
+  function speedBand(ms,correct){
+    if(!correct) return 'unknown';
+    if(ms<=3000) return 'fast';
+    if(ms<=6000) return 'normal';
+    return 'slow';
+  }
+  function nextInterval(st){
+    const band=speedBand(st.lastMs||99999,true);
+    if(st.streak<=0) return 0.007; // ~10 min
+    if(st.streak===1) return band==='slow'?0.5:1;
+    if(st.streak===2) return band==='slow'?1:3;
+    if(st.streak===3) return band==='slow'?3:7;
+    if(st.streak===4) return band==='slow'?7:14;
+    return band==='slow'?14:30;
+  }
+  window.TARGET_ADAPT={
+    record:function(no,correct,ms){
+      const s=loadStats(), st=ensure(s,String(no));
+      st.seen++; st.lastSeen=Date.now(); st.lastMs=ms; st.totalMs+=ms;
+      if(correct){
+        st.correct++; st.streak=(st.streak||0)+1;
+        if(ms>SLOW_MS){st.slow=(st.slow||0)+1; st.reviewWeight+=1.5}else st.reviewWeight=Math.max(0,(st.reviewWeight||0)-1);
+        st.interval=nextInterval(st);
+        st.nextDue=Date.now()+st.interval*DAY;
+      }else{
+        st.wrong++; st.slow=st.slow||0; st.streak=0; st.reviewWeight=(st.reviewWeight||0)+5;
+        st.interval=0.007; st.nextDue=Date.now()+st.interval*DAY;
+      }
+      saveStats(s);
+      return st;
+    },
+    priority:function(item){
+      const s=loadStats(), st=s[String(item.no)]||{};
+      const now=Date.now();
+      const seen=st.seen||0, wrong=st.wrong||0, slow=st.slow||0;
+      const weight=st.reviewWeight||0, streak=st.streak||0;
+      const due=st.nextDue && st.nextDue<=now;
+      const overdue=due ? Math.min(7,Math.max(0,(now-st.nextDue)/DAY)) : 0;
+      const avg=seen ? (st.totalMs||0)/seen : 0;
+      const speedRisk=avg>6000 ? Math.min(8,(avg-6000)/1000) : 0;
+      const wrongRate=seen ? wrong/seen : 0;
+      const stability=Math.min(6,streak*0.7);
+      /* calibrated: wrong > due > slow > unseen, with diminishing returns */
+      return (wrong>0 ? 10*Math.min(3,wrong) : 0)
+        + (due ? 12+overdue*1.5 : 0)
+        + slow*2
+        + speedRisk*2
+        + Math.min(10,weight)
+        + (seen===0 ? 3 : 0)
+        + wrongRate*8
+        - stability;
+    },
+    choose50:function(items){
+      const all=items.slice();
+      const scored=all.map(x=>({x,score:this.priority(x)})).sort((a,b)=>b.score-a.score);
+      const s=loadStats();
+      const due=scored.filter(o=>{const st=s[String(o.x.no)];return st&&st.nextDue&&st.nextDue<=Date.now()});
+      const weak=scored.filter(o=>{const st=s[String(o.x.no)];return st&&(st.wrong||0)>0});
+      const slow=scored.filter(o=>{const st=s[String(o.x.no)];return st&&(st.lastMs||0)>SLOW_MS});
+      const unseen=scored.filter(o=>{const st=s[String(o.x.no)];return !st||!st.seen});
+      const stable=scored.filter(o=>{const st=s[String(o.x.no)];return st&&st.streak>=3&&(st.lastMs||99999)<=6000});
+      const out=[], used=new Set();
+      function take(arr,n){
+        for(const o of arr){
+          if(out.length>=50||n<=0)break;
+          if(!used.has(o.x.no)){out.push(o.x);used.add(o.x.no);n--;}
+        }
+      }
+      /* Hard quotas prevent a single failure type from monopolizing the test. */
+      take(due,18);
+      take(weak,12);
+      take(slow,10);
+      take(unseen,5);
+      take(stable,5);
+      take(scored,50-out.length);
+
+      /* Shuffle within narrow priority bands: prevents the same 50-word order every day. */
+      const buckets=[];
+      for(let i=0;i<out.length;i+=5){
+        const b=out.slice(i,i+5);
+        for(let j=b.length-1;j>0;j--){const k=Math.floor(Math.random()*(j+1));[b[j],b[k]]=[b[k],b[j]];}
+        buckets.push(...b);
+      }
+      return buckets.slice(0,50);
+    },
+    weekly:function(){
+      const h=loadHist(), cutoff=Date.now()-7*DAY, recent=h.filter(x=>new Date(x.date||0).getTime()>=cutoff);
+      let ans=0, correct=0, ms=0, slow=0;
+      recent.forEach(x=>{ans+=x.answered||0; correct+=x.correct||0; ms+=x.totalMs||0; slow+=x.slow||0});
+      return {tests:recent.length,answered:ans,correct,accuracy:ans?correct/ans:0,avgMs:ans?ms/ans:0,slowRate:ans?slow/ans:0};
+    },
+    audit:function(data){
+      const nums=data.map(x=>x.no), uniq=new Set(nums);
+      const missing=[]; for(let n=801;n<=1500;n++) if(!uniq.has(n)) missing.push(n);
+      const dup=nums.filter((n,i)=>nums.indexOf(n)!==i);
+      const bad=data.filter(x=>!x.word||!x.pos||!Array.isArray(x.meanings)||!x.meanings.length);
+      return {count:data.length,range:[Math.min(...nums),Math.max(...nums)],missing,duplicates:[...new Set(dup)],bad};
+    }
+  };
+})();
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  window.addEventListener('target:prepare',e=>{
+    if(e.detail && e.detail.items && e.detail.mode==='today'){
+      e.detail.items.splice(0,e.detail.items.length,...window.TARGET_ADAPT.choose50(e.detail.items));
+    }
+  });
+});
+</script>
+
+<div id="phase2Analytics" class="analysis-card" style="margin-top:12px">
+  <b>📊 学習分析</b>
+  <div id="phase2Metrics" style="margin-top:8px">読み込み中…</div>
+  <div id="phase2Audit" style="margin-top:8px"></div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded',()=>{
+  const el=document.getElementById('phase2Metrics'); if(!el||!window.TARGET_ADAPT)return;
+  const w=window.TARGET_ADAPT.weekly(), a=window.TARGET_ADAPT.audit(window.DATA||[]);
+  el.innerHTML=
+    '<div class="analysis-grid">'+
+    '<div><span class="tag">直近7日</span><b>'+w.tests+'回</b><br>回答 '+w.answered+'問</div>'+
+    '<div><span class="tag">正答率</span><b>'+Math.round(w.accuracy*100)+'%</b><br>平均 '+(w.avgMs/1000).toFixed(1)+'秒</div>'+
+    '<div><span class="tag">6秒超過</span><b>'+Math.round(w.slowRate*100)+'%</b><br>高速化対象</div>'+
+    '<div><span class="tag">データ監査</span><b>'+(a.count===700&&a.missing.length===0&&a.duplicates.length===0&&a.bad.length===0?'PASS':'要確認')+'</b><br>'+a.count+'語 / 801–1500</div>'+
+    '</div>';
+});
+</script>
+
+<script>
+/* v14 calibration: avoid repeated sessions and preserve 100-word section coverage */
+(function(){
+ const HKEY='target_history';
+ function hist(){try{return JSON.parse(localStorage.getItem(HKEY)||'[]')}catch(e){return[]}}
+ window.TARGET_ADAPT.coverage50=function(items){
+   const h=hist(), recent=new Set();
+   h.slice(-3).forEach(t=>(t.words||[]).forEach(n=>recent.add(n)));
+   return items.slice().sort((a,b)=>{
+     const ar=recent.has(a.no)?1:0, br=recent.has(b.no)?1:0;
+     return ar-br;
+   });
+ };
+})();
+</script>
+</body></html>
